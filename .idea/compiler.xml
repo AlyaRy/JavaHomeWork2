@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Java hw" />
+        <module name="JavaHomeWork" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Java hw" target="16" />
+      <module name="JavaHomeWork" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>
